@@ -1,6 +1,16 @@
 # HR-Analytics-Project
 This project follows the HR Analytics Project provided as part of the DataCamp Power BI course
 
+## Table Of Content
+- [Project Overview](#project-overview)
+- [Dashboard Overview](#dashboard-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Business Question](#business-question)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 This project analyzes the HR performance of a fictitious company, Atlas Lab. The analysis explores hiring trend at Atlas Lab, employee demographics and performance. It also dives deeper into attrition and what factors impact attrition. This analysis will help the organization determine what action they will need to take to retain more employees.
 
@@ -9,6 +19,7 @@ Employee attrition, also known as employee churn or turnover, refers to employee
 Using Power BI, I explored employees performance satisfaction by year, employee demographics, and attrition rate.
 
 ### Dashboard Overview
+<img width="1366" height="768" alt="overview" src="https://github.com/user-attachments/assets/238ae4bf-f4f9-4549-ae33-be811cb8d53a" />
 
 
 ### Data Sources
@@ -19,7 +30,7 @@ All datasets were provided by DataCamp
 ### Tools
 Power BI was used to explore the data, DAXs were used to model and transform the data.
 
-### Business Questions
+### Business Question
  - What is the attrition rate of the employees?
    
 ### Exploratory Data Analysis
