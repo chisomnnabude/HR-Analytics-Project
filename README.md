@@ -8,6 +8,9 @@ Employee attrition, also known as employee churn or turnover, refers to employee
 
 Using Power BI, I explored employees performance satisfaction by year, employee demographics, and attrition rate.
 
+### Dashboard Overview
+
+
 ### Data Sources
 The datasets used in this project includes one Fact table 'PerformanceRating.csv' and four Dimension tables: 'EducationLevel.csv', 'Employee.csv', ' Rating level.csv', Satisfied rating.csv' and one date table, 'DimDate.txt'
 
