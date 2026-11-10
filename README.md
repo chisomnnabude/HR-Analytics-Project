@@ -17,13 +17,10 @@ All datasets were provided by DataCamp
 Power BI was used to explore the data, DAXs were used to model and transform the data.
 
 ### Business Questions
- - Where do the biggest growth in new employees occur?
- - How many active employees do we have?
- - How do we do diversity and inclusion wise?
- - How do our employees perform yearly?
-
+ - What is the attrition rate of the employees?
+   
 ### Exploratory Data Analysis
-To answer the business questions, the HR data was analyzed to provide the following insights:
+To answer the business question, the HR data was analyzed to understand the employee demographics, and the following insights were explored:
 
  - Employee Hiring Trends
  - Active Employees by Department
